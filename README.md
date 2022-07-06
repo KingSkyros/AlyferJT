@@ -1,4 +1,4 @@
-### Olá! Eu sou o Alyfer 👋
+### Olá! Eu sou o Alyfer, estudante de Front-End com JavaScript...
 <div align="center">
   <a href="https://github.com/AlyferJT">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlyferJT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
