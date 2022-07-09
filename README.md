@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Alyfer, estudante de Front-End com JavaScript!
-### Hello! I'm Alyfer, Front-End with JavaScript student!
+### Hello! My name is Alyfer, i'm a Front-End with JavaScript student!
 <div align="center">
   <a href="https://github.com/AlyferJT">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlyferJT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
